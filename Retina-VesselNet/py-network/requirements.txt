@@ -1,8 +1,0 @@
-tensorflow-gpu==2.5.2
-tqdm
-matplotlib
-opencv-python
-tf-nightly
-scikit-learn
-onnxruntime
-tf2onnx
